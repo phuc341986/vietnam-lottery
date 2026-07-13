@@ -1,26 +1,26 @@
-2026-07-14 00:28:28,732 - INFO - Date range: 2026-07-13 to 2026-07-14
-2026-07-14 00:28:28,785 - INFO - Fetching XSMN from 2026-07-13 to 2026-07-14
-2026-07-14 00:28:28,850 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-12
-2026-07-14 00:28:28,852 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-07-14 00:28:28,852 - INFO - Fetching XSMN: 2026-07-13
-2026-07-14 00:28:28,853 - INFO - Fetching URL: https://xoso.com.vn/xsmn-13-07-2026.html
-2026-07-14 00:28:29,806 - INFO - Response status: 200
-2026-07-14 00:28:29,820 - INFO - Found provinces: TPHCM, Đồng Tháp, Cà Mau
-2026-07-14 00:28:29,821 - INFO - Successfully processed data for TPHCM on 2026-07-13
-2026-07-14 00:28:29,821 - INFO - Successfully processed data for Đồng Tháp on 2026-07-13
-2026-07-14 00:28:29,821 - INFO - Successfully processed data for Cà Mau on 2026-07-13
-2026-07-14 00:28:29,821 - INFO - Successfully fetched 3 results for date 2026-07-13
-2026-07-14 00:28:29,821 - INFO - Fetching XSMN: 2026-07-14
-2026-07-14 00:28:29,821 - INFO - Fetching URL: https://xoso.com.vn/xsmn-14-07-2026.html
-2026-07-14 00:28:30,583 - INFO - Response status: 200
-2026-07-14 00:28:30,595 - ERROR - Could not find result table for date 2026-07-14 at https://xoso.com.vn/xsmn-14-07-2026.html
-2026-07-14 00:28:30,595 - WARNING - No data or invalid data for XSMN on 2026-07-14
-2026-07-14 00:28:30,646 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-13
-2026-07-14 00:28:30,664 - INFO - Saved 1067 results to data/xsmn.json
-2026-07-14 00:28:30,677 - INFO - Saved 1067 records to data/xsmn.csv and data/xsmn.parquet
-2026-07-14 00:28:30,683 - INFO - Saved 1067 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-07-14 00:28:30,707 - INFO - Saved 1067 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-07-14 00:28:30,735 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-07-14 00:28:30,736 - INFO - Successfully fetched 1/2 days of XSMN data
-2026-07-14 00:28:30,736 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-07-14 01:04:51,096 - INFO - Date range: 2026-07-13 to 2026-07-14
+2026-07-14 01:04:51,163 - INFO - Fetching XSMT from 2026-07-13 to 2026-07-14
+2026-07-14 01:04:51,228 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-12
+2026-07-14 01:04:51,229 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-07-14 01:04:51,229 - INFO - Fetching XSMT: 2026-07-13
+2026-07-14 01:04:51,230 - INFO - Fetching URL: https://xoso.com.vn/xsmt-13-07-2026.html
+2026-07-14 01:04:52,061 - INFO - Response status: 200
+2026-07-14 01:04:52,074 - INFO - Found provinces: Huế, Phú Yên
+2026-07-14 01:04:52,075 - INFO - Successfully processed data for Huế on 2026-07-13
+2026-07-14 01:04:52,075 - INFO - Successfully processed data for Phú Yên on 2026-07-13
+2026-07-14 01:04:52,075 - INFO - Successfully fetched 2 results for date 2026-07-13
+2026-07-14 01:04:52,075 - INFO - Fetching XSMT: 2026-07-14
+2026-07-14 01:04:52,075 - INFO - Fetching URL: https://xoso.com.vn/xsmt-14-07-2026.html
+2026-07-14 01:04:52,535 - INFO - Response status: 200
+2026-07-14 01:04:52,553 - INFO - Found provinces: Đắk Lắk, Quảng Nam
+2026-07-14 01:04:52,553 - WARNING - Skipping Đắk Lắk for 2026-07-14 due to incomplete data: ['...']
+2026-07-14 01:04:52,553 - WARNING - No data or invalid data for XSMT on 2026-07-14
+2026-07-14 01:04:52,609 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-13
+2026-07-14 01:04:52,628 - INFO - Saved 821 results to data/xsmt.json
+2026-07-14 01:04:52,691 - INFO - Saved 821 records to data/xsmt.csv and data/xsmt.parquet
+2026-07-14 01:04:52,700 - INFO - Saved 821 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-07-14 01:04:52,786 - INFO - Saved 821 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-07-14 01:04:52,833 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-07-14 01:04:52,834 - INFO - Successfully fetched 1/2 days of XSMT data
+2026-07-14 01:04:52,834 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
