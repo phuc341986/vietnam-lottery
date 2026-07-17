@@ -1,17 +1,21 @@
-2026-07-16 23:47:30,735 - INFO - Date range: 2026-07-16 to 2026-07-16
-2026-07-16 23:47:30,848 - INFO - Fetching XSMB from 2026-07-16 to 2026-07-16
-2026-07-16 23:47:30,895 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-15
-2026-07-16 23:47:30,896 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-07-16 23:47:30,896 - INFO - Fetching XSMB: 2026-07-16
-2026-07-16 23:47:30,896 - INFO - Fetching URL: https://xoso.com.vn/xsmb-16-07-2026.html
-2026-07-16 23:47:31,247 - INFO - Response status: 200
-2026-07-16 23:47:31,270 - INFO - Successfully fetched data for 2026-07-16
-2026-07-16 23:47:31,302 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-16
-2026-07-16 23:47:31,312 - INFO - Saved 339 results to data/xsmb.json
-2026-07-16 23:47:31,325 - INFO - Saved 339 records to data/xsmb.csv and data/xsmb.parquet
-2026-07-16 23:47:31,331 - INFO - Saved 339 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-07-16 23:47:31,345 - INFO - Saved 339 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-07-16 23:47:31,377 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-07-16 23:47:31,378 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-07-16 23:47:31,378 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-07-17 22:00:28,731 - INFO - Date range: 2026-07-17 to 2026-07-17
+2026-07-17 22:00:28,783 - INFO - Fetching XSMN from 2026-07-17 to 2026-07-17
+2026-07-17 22:00:28,847 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-16
+2026-07-17 22:00:28,849 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-07-17 22:00:28,849 - INFO - Fetching XSMN: 2026-07-17
+2026-07-17 22:00:28,849 - INFO - Fetching URL: https://xoso.com.vn/xsmn-17-07-2026.html
+2026-07-17 22:00:29,365 - INFO - Response status: 200
+2026-07-17 22:00:29,379 - INFO - Found provinces: Vĩnh Long, Bình Dương, Trà Vinh
+2026-07-17 22:00:29,380 - INFO - Successfully processed data for Vĩnh Long on 2026-07-17
+2026-07-17 22:00:29,380 - INFO - Successfully processed data for Bình Dương on 2026-07-17
+2026-07-17 22:00:29,380 - INFO - Successfully processed data for Trà Vinh on 2026-07-17
+2026-07-17 22:00:29,380 - INFO - Successfully fetched 3 results for date 2026-07-17
+2026-07-17 22:00:29,432 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-17
+2026-07-17 22:00:29,450 - INFO - Saved 1079 results to data/xsmn.json
+2026-07-17 22:00:29,463 - INFO - Saved 1079 records to data/xsmn.csv and data/xsmn.parquet
+2026-07-17 22:00:29,470 - INFO - Saved 1079 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-07-17 22:00:29,490 - INFO - Saved 1079 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-07-17 22:00:29,519 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-07-17 22:00:29,519 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-07-17 22:00:29,519 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
