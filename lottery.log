@@ -1,21 +1,17 @@
-2026-07-26 21:52:21,549 - INFO - Date range: 2026-07-26 to 2026-07-26
-2026-07-26 21:52:21,600 - INFO - Fetching XSMT from 2026-07-26 to 2026-07-26
-2026-07-26 21:52:21,655 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-25
-2026-07-26 21:52:21,657 - INFO - Successfully loaded existing data from data/xsmt.json
-2026-07-26 21:52:21,657 - INFO - Fetching XSMT: 2026-07-26
-2026-07-26 21:52:21,657 - INFO - Fetching URL: https://xoso.com.vn/xsmt-26-07-2026.html
-2026-07-26 21:52:22,269 - INFO - Response status: 200
-2026-07-26 21:52:22,283 - INFO - Found provinces: Khánh Hòa, Kon Tum, Huế
-2026-07-26 21:52:22,283 - INFO - Successfully processed data for Khánh Hòa on 2026-07-26
-2026-07-26 21:52:22,284 - INFO - Successfully processed data for Kon Tum on 2026-07-26
-2026-07-26 21:52:22,284 - INFO - Successfully processed data for Huế on 2026-07-26
-2026-07-26 21:52:22,284 - INFO - Successfully fetched 3 results for date 2026-07-26
-2026-07-26 21:52:22,327 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-26
-2026-07-26 21:52:22,341 - INFO - Saved 853 results to data/xsmt.json
-2026-07-26 21:52:22,354 - INFO - Saved 853 records to data/xsmt.csv and data/xsmt.parquet
-2026-07-26 21:52:22,360 - INFO - Saved 853 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2026-07-26 21:52:22,377 - INFO - Saved 853 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2026-07-26 21:52:22,406 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2026-07-26 21:52:22,406 - INFO - Successfully fetched 1/1 days of XSMT data
-2026-07-26 21:52:22,406 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2026-07-26 22:44:13,090 - INFO - Date range: 2026-07-26 to 2026-07-26
+2026-07-26 22:44:13,185 - INFO - Fetching XSMB from 2026-07-26 to 2026-07-26
+2026-07-26 22:44:13,226 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-25
+2026-07-26 22:44:13,227 - INFO - Successfully loaded existing data from data/xsmb.json
+2026-07-26 22:44:13,228 - INFO - Fetching XSMB: 2026-07-26
+2026-07-26 22:44:13,228 - INFO - Fetching URL: https://xoso.com.vn/xsmb-26-07-2026.html
+2026-07-26 22:44:13,935 - INFO - Response status: 200
+2026-07-26 22:44:13,958 - INFO - Successfully fetched data for 2026-07-26
+2026-07-26 22:44:13,991 - INFO - Generated dataframes with data from 2025-08-08 to 2026-07-26
+2026-07-26 22:44:14,001 - INFO - Saved 349 results to data/xsmb.json
+2026-07-26 22:44:14,014 - INFO - Saved 349 records to data/xsmb.csv and data/xsmb.parquet
+2026-07-26 22:44:14,019 - INFO - Saved 349 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2026-07-26 22:44:14,034 - INFO - Saved 349 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2026-07-26 22:44:14,067 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2026-07-26 22:44:14,068 - INFO - Successfully fetched 1/1 days of XSMB data
+2026-07-26 22:44:14,068 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
