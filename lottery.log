@@ -1,26 +1,25 @@
-2026-08-04 00:22:35,868 - INFO - Date range: 2026-08-03 to 2026-08-04
-2026-08-04 00:22:35,936 - INFO - Fetching XSMN from 2026-08-03 to 2026-08-04
-2026-08-04 00:22:36,020 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-02
-2026-08-04 00:22:36,022 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-08-04 00:22:36,022 - INFO - Fetching XSMN: 2026-08-03
-2026-08-04 00:22:36,022 - INFO - Fetching URL: https://xoso.com.vn/xsmn-03-08-2026.html
-2026-08-04 00:22:36,745 - INFO - Response status: 200
-2026-08-04 00:22:36,761 - INFO - Found provinces: TPHCM, Đồng Tháp, Cà Mau
-2026-08-04 00:22:36,762 - INFO - Successfully processed data for TPHCM on 2026-08-03
-2026-08-04 00:22:36,762 - INFO - Successfully processed data for Đồng Tháp on 2026-08-03
-2026-08-04 00:22:36,762 - INFO - Successfully processed data for Cà Mau on 2026-08-03
-2026-08-04 00:22:36,762 - INFO - Successfully fetched 3 results for date 2026-08-03
-2026-08-04 00:22:36,762 - INFO - Fetching XSMN: 2026-08-04
-2026-08-04 00:22:36,762 - INFO - Fetching URL: https://xoso.com.vn/xsmn-04-08-2026.html
-2026-08-04 00:22:37,028 - INFO - Response status: 200
-2026-08-04 00:22:37,042 - ERROR - Could not find result table for date 2026-08-04 at https://xoso.com.vn/xsmn-04-08-2026.html
-2026-08-04 00:22:37,042 - WARNING - No data or invalid data for XSMN on 2026-08-04
-2026-08-04 00:22:37,105 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-03
-2026-08-04 00:22:37,128 - INFO - Saved 1133 results to data/xsmn.json
-2026-08-04 00:22:37,144 - INFO - Saved 1133 records to data/xsmn.csv and data/xsmn.parquet
-2026-08-04 00:22:37,152 - INFO - Saved 1133 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-08-04 00:22:37,178 - INFO - Saved 1133 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-08-04 00:22:37,215 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-08-04 00:22:37,216 - INFO - Successfully fetched 1/2 days of XSMN data
-2026-08-04 00:22:37,216 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-08-04 00:29:20,628 - INFO - Date range: 2026-08-03 to 2026-08-04
+2026-08-04 00:29:20,691 - INFO - Fetching XSMT from 2026-08-03 to 2026-08-04
+2026-08-04 00:29:20,775 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-02
+2026-08-04 00:29:20,776 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-08-04 00:29:20,776 - INFO - Fetching XSMT: 2026-08-03
+2026-08-04 00:29:20,776 - INFO - Fetching URL: https://xoso.com.vn/xsmt-03-08-2026.html
+2026-08-04 00:29:21,573 - INFO - Response status: 200
+2026-08-04 00:29:21,585 - INFO - Found provinces: Phú Yên, Huế
+2026-08-04 00:29:21,585 - INFO - Successfully processed data for Phú Yên on 2026-08-03
+2026-08-04 00:29:21,585 - INFO - Successfully processed data for Huế on 2026-08-03
+2026-08-04 00:29:21,585 - INFO - Successfully fetched 2 results for date 2026-08-03
+2026-08-04 00:29:21,585 - INFO - Fetching XSMT: 2026-08-04
+2026-08-04 00:29:21,585 - INFO - Fetching URL: https://xoso.com.vn/xsmt-04-08-2026.html
+2026-08-04 00:29:22,117 - INFO - Response status: 200
+2026-08-04 00:29:22,126 - ERROR - Could not find result table for date 2026-08-04 at https://xoso.com.vn/xsmt-04-08-2026.html
+2026-08-04 00:29:22,126 - WARNING - No data or invalid data for XSMT on 2026-08-04
+2026-08-04 00:29:22,174 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-03
+2026-08-04 00:29:22,188 - INFO - Saved 872 results to data/xsmt.json
+2026-08-04 00:29:22,202 - INFO - Saved 872 records to data/xsmt.csv and data/xsmt.parquet
+2026-08-04 00:29:22,208 - INFO - Saved 872 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-08-04 00:29:22,229 - INFO - Saved 872 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-08-04 00:29:22,258 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-08-04 00:29:22,258 - INFO - Successfully fetched 1/2 days of XSMT data
+2026-08-04 00:29:22,258 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
