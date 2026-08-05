@@ -1,21 +1,20 @@
-2026-08-05 23:18:00,742 - INFO - Date range: 2026-08-05 to 2026-08-05
-2026-08-05 23:18:00,815 - INFO - Fetching XSMN from 2026-08-05 to 2026-08-05
-2026-08-05 23:18:00,901 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-04
-2026-08-05 23:18:00,903 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-08-05 23:18:00,904 - INFO - Fetching XSMN: 2026-08-05
-2026-08-05 23:18:00,904 - INFO - Fetching URL: https://xoso.com.vn/xsmn-05-08-2026.html
-2026-08-05 23:18:01,737 - INFO - Response status: 200
-2026-08-05 23:18:01,757 - INFO - Found provinces: Đồng Nai, Cần Thơ, Sóc Trăng
-2026-08-05 23:18:01,758 - INFO - Successfully processed data for Đồng Nai on 2026-08-05
-2026-08-05 23:18:01,758 - INFO - Successfully processed data for Cần Thơ on 2026-08-05
-2026-08-05 23:18:01,759 - INFO - Successfully processed data for Sóc Trăng on 2026-08-05
-2026-08-05 23:18:01,759 - INFO - Successfully fetched 3 results for date 2026-08-05
-2026-08-05 23:18:01,827 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-05
-2026-08-05 23:18:01,852 - INFO - Saved 1139 results to data/xsmn.json
-2026-08-05 23:18:01,870 - INFO - Saved 1139 records to data/xsmn.csv and data/xsmn.parquet
-2026-08-05 23:18:01,878 - INFO - Saved 1139 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-08-05 23:18:01,907 - INFO - Saved 1139 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-08-05 23:18:01,946 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-08-05 23:18:01,947 - INFO - Successfully fetched 1/1 days of XSMN data
-2026-08-05 23:18:01,947 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-08-05 23:24:22,252 - INFO - Date range: 2026-08-05 to 2026-08-05
+2026-08-05 23:24:22,326 - INFO - Fetching XSMT from 2026-08-05 to 2026-08-05
+2026-08-05 23:24:22,396 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-04
+2026-08-05 23:24:22,398 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-08-05 23:24:22,399 - INFO - Fetching XSMT: 2026-08-05
+2026-08-05 23:24:22,399 - INFO - Fetching URL: https://xoso.com.vn/xsmt-05-08-2026.html
+2026-08-05 23:24:23,220 - INFO - Response status: 200
+2026-08-05 23:24:23,242 - INFO - Found provinces: Đà Nẵng, Khánh Hòa
+2026-08-05 23:24:23,243 - INFO - Successfully processed data for Đà Nẵng on 2026-08-05
+2026-08-05 23:24:23,243 - INFO - Successfully processed data for Khánh Hòa on 2026-08-05
+2026-08-05 23:24:23,243 - INFO - Successfully fetched 2 results for date 2026-08-05
+2026-08-05 23:24:23,298 - INFO - Generated dataframes with data from 2025-08-08 to 2026-08-05
+2026-08-05 23:24:23,317 - INFO - Saved 876 results to data/xsmt.json
+2026-08-05 23:24:23,335 - INFO - Saved 876 records to data/xsmt.csv and data/xsmt.parquet
+2026-08-05 23:24:23,342 - INFO - Saved 876 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-08-05 23:24:23,366 - INFO - Saved 876 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-08-05 23:24:23,404 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-08-05 23:24:23,404 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-08-05 23:24:23,404 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
