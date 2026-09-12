@@ -1,17 +1,22 @@
-2026-09-11 22:11:03,049 - INFO - Date range: 2026-09-11 to 2026-09-11
-2026-09-11 22:11:03,097 - INFO - Fetching XSMB from 2026-09-11 to 2026-09-11
-2026-09-11 22:11:03,161 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-10
-2026-09-11 22:11:03,162 - INFO - Successfully loaded existing data from data/xsmb.json
-2026-09-11 22:11:03,162 - INFO - Fetching XSMB: 2026-09-11
-2026-09-11 22:11:03,162 - INFO - Fetching URL: https://xoso.com.vn/xsmb-11-09-2026.html
-2026-09-11 22:11:03,715 - INFO - Response status: 200
-2026-09-11 22:11:03,730 - INFO - Successfully fetched data for 2026-09-11
-2026-09-11 22:11:03,756 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-11
-2026-09-11 22:11:03,764 - INFO - Saved 396 results to data/xsmb.json
-2026-09-11 22:11:03,776 - INFO - Saved 396 records to data/xsmb.csv and data/xsmb.parquet
-2026-09-11 22:11:03,781 - INFO - Saved 396 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
-2026-09-11 22:11:03,792 - INFO - Saved 396 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
-2026-09-11 22:11:03,818 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
-2026-09-11 22:11:03,819 - INFO - Successfully fetched 1/1 days of XSMB data
-2026-09-11 22:11:03,819 - INFO - Lottery Data Fetch Summary:
-XSMB: succeeded
+2026-09-12 20:10:13,467 - INFO - Date range: 2026-09-12 to 2026-09-12
+2026-09-12 20:10:13,530 - INFO - Fetching XSMN from 2026-09-12 to 2026-09-12
+2026-09-12 20:10:13,613 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-11
+2026-09-12 20:10:13,615 - INFO - Successfully loaded existing data from data/xsmn.json
+2026-09-12 20:10:13,615 - INFO - Fetching XSMN: 2026-09-12
+2026-09-12 20:10:13,615 - INFO - Fetching URL: https://xoso.com.vn/xsmn-12-09-2026.html
+2026-09-12 20:10:13,887 - INFO - Response status: 200
+2026-09-12 20:10:13,904 - INFO - Found provinces: TPHCM, Long An, Bình Phước, Hậu Giang
+2026-09-12 20:10:13,905 - INFO - Successfully processed data for TPHCM on 2026-09-12
+2026-09-12 20:10:13,905 - INFO - Successfully processed data for Long An on 2026-09-12
+2026-09-12 20:10:13,905 - INFO - Successfully processed data for Bình Phước on 2026-09-12
+2026-09-12 20:10:13,905 - INFO - Successfully processed data for Hậu Giang on 2026-09-12
+2026-09-12 20:10:13,905 - INFO - Successfully fetched 4 results for date 2026-09-12
+2026-09-12 20:10:13,973 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-12
+2026-09-12 20:10:13,994 - INFO - Saved 1259 results to data/xsmn.json
+2026-09-12 20:10:14,010 - INFO - Saved 1259 records to data/xsmn.csv and data/xsmn.parquet
+2026-09-12 20:10:14,018 - INFO - Saved 1259 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
+2026-09-12 20:10:14,044 - INFO - Saved 1259 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
+2026-09-12 20:10:14,078 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
+2026-09-12 20:10:14,079 - INFO - Successfully fetched 1/1 days of XSMN data
+2026-09-12 20:10:14,079 - INFO - Lottery Data Fetch Summary:
+XSMN: succeeded
