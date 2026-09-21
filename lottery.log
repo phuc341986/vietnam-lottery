@@ -1,21 +1,20 @@
-2026-09-21 23:01:29,283 - INFO - Date range: 2026-09-21 to 2026-09-21
-2026-09-21 23:01:29,356 - INFO - Fetching XSMN from 2026-09-21 to 2026-09-21
-2026-09-21 23:01:29,465 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-20
-2026-09-21 23:01:29,467 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-09-21 23:01:29,468 - INFO - Fetching XSMN: 2026-09-21
-2026-09-21 23:01:29,468 - INFO - Fetching URL: https://xoso.com.vn/xsmn-21-09-2026.html
-2026-09-21 23:01:31,082 - INFO - Response status: 200
-2026-09-21 23:01:31,100 - INFO - Found provinces: TPHCM, Đồng Tháp, Cà Mau
-2026-09-21 23:01:31,100 - INFO - Successfully processed data for TPHCM on 2026-09-21
-2026-09-21 23:01:31,101 - INFO - Successfully processed data for Đồng Tháp on 2026-09-21
-2026-09-21 23:01:31,101 - INFO - Successfully processed data for Cà Mau on 2026-09-21
-2026-09-21 23:01:31,101 - INFO - Successfully fetched 3 results for date 2026-09-21
-2026-09-21 23:01:31,173 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-21
-2026-09-21 23:01:31,199 - INFO - Saved 1287 results to data/xsmn.json
-2026-09-21 23:01:31,218 - INFO - Saved 1287 records to data/xsmn.csv and data/xsmn.parquet
-2026-09-21 23:01:31,226 - INFO - Saved 1287 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-09-21 23:01:31,253 - INFO - Saved 1287 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-09-21 23:01:31,296 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-09-21 23:01:31,297 - INFO - Successfully fetched 1/1 days of XSMN data
-2026-09-21 23:01:31,297 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-09-21 23:36:20,693 - INFO - Date range: 2026-09-21 to 2026-09-21
+2026-09-21 23:36:20,763 - INFO - Fetching XSMT from 2026-09-21 to 2026-09-21
+2026-09-21 23:36:20,835 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-20
+2026-09-21 23:36:20,837 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-09-21 23:36:20,838 - INFO - Fetching XSMT: 2026-09-21
+2026-09-21 23:36:20,838 - INFO - Fetching URL: https://xoso.com.vn/xsmt-21-09-2026.html
+2026-09-21 23:36:21,890 - INFO - Response status: 200
+2026-09-21 23:36:21,908 - INFO - Found provinces: Phú Yên, Huế
+2026-09-21 23:36:21,909 - INFO - Successfully processed data for Phú Yên on 2026-09-21
+2026-09-21 23:36:21,909 - INFO - Successfully processed data for Huế on 2026-09-21
+2026-09-21 23:36:21,909 - INFO - Successfully fetched 2 results for date 2026-09-21
+2026-09-21 23:36:21,966 - INFO - Generated dataframes with data from 2025-08-08 to 2026-09-21
+2026-09-21 23:36:21,987 - INFO - Saved 991 results to data/xsmt.json
+2026-09-21 23:36:22,002 - INFO - Saved 991 records to data/xsmt.csv and data/xsmt.parquet
+2026-09-21 23:36:22,009 - INFO - Saved 991 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-09-21 23:36:22,032 - INFO - Saved 991 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-09-21 23:36:22,074 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-09-21 23:36:22,074 - INFO - Successfully fetched 1/1 days of XSMT data
+2026-09-21 23:36:22,074 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
