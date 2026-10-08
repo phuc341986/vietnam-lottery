@@ -1,29 +1,26 @@
-2026-10-08 23:58:11,985 - INFO - Date range: 2026-10-07 to 2026-10-08
-2026-10-08 23:58:12,053 - INFO - Fetching XSMN from 2026-10-07 to 2026-10-08
-2026-10-08 23:58:12,146 - INFO - Generated dataframes with data from 2025-08-08 to 2026-10-06
-2026-10-08 23:58:12,150 - INFO - Successfully loaded existing data from data/xsmn.json
-2026-10-08 23:58:12,151 - INFO - Fetching XSMN: 2026-10-07
-2026-10-08 23:58:12,151 - INFO - Fetching URL: https://xoso.com.vn/xsmn-07-10-2026.html
-2026-10-08 23:58:13,331 - INFO - Response status: 200
-2026-10-08 23:58:13,349 - INFO - Found provinces: Đồng Nai, Cần Thơ, Sóc Trăng
-2026-10-08 23:58:13,350 - INFO - Successfully processed data for Đồng Nai on 2026-10-07
-2026-10-08 23:58:13,350 - INFO - Successfully processed data for Cần Thơ on 2026-10-07
-2026-10-08 23:58:13,350 - INFO - Successfully processed data for Sóc Trăng on 2026-10-07
-2026-10-08 23:58:13,350 - INFO - Successfully fetched 3 results for date 2026-10-07
-2026-10-08 23:58:13,350 - INFO - Fetching XSMN: 2026-10-08
-2026-10-08 23:58:13,350 - INFO - Fetching URL: https://xoso.com.vn/xsmn-08-10-2026.html
-2026-10-08 23:58:13,983 - INFO - Response status: 200
-2026-10-08 23:58:14,001 - INFO - Found provinces: Tây Ninh, An Giang, Bình Thuận
-2026-10-08 23:58:14,002 - INFO - Successfully processed data for Tây Ninh on 2026-10-08
-2026-10-08 23:58:14,002 - INFO - Successfully processed data for An Giang on 2026-10-08
-2026-10-08 23:58:14,002 - INFO - Successfully processed data for Bình Thuận on 2026-10-08
-2026-10-08 23:58:14,002 - INFO - Successfully fetched 3 results for date 2026-10-08
-2026-10-08 23:58:14,080 - INFO - Generated dataframes with data from 2025-08-08 to 2026-10-08
-2026-10-08 23:58:14,110 - INFO - Saved 1340 results to data/xsmn.json
-2026-10-08 23:58:14,129 - INFO - Saved 1340 records to data/xsmn.csv and data/xsmn.parquet
-2026-10-08 23:58:14,138 - INFO - Saved 1340 records to data/xsmn-2-digits.csv and data/xsmn-2-digits.parquet
-2026-10-08 23:58:14,167 - INFO - Saved 1340 records to data/xsmn-sparse.csv and data/xsmn-sparse.parquet
-2026-10-08 23:58:14,212 - INFO - Successfully saved sparse data to data/xsmn-sparse.json
-2026-10-08 23:58:14,213 - INFO - Successfully fetched 2/2 days of XSMN data
-2026-10-08 23:58:14,213 - INFO - Lottery Data Fetch Summary:
-XSMN: succeeded
+2026-10-09 00:36:21,936 - INFO - Date range: 2026-10-08 to 2026-10-09
+2026-10-09 00:36:21,984 - INFO - Fetching XSMT from 2026-10-08 to 2026-10-09
+2026-10-09 00:36:22,030 - INFO - Generated dataframes with data from 2025-08-08 to 2026-10-07
+2026-10-09 00:36:22,032 - INFO - Successfully loaded existing data from data/xsmt.json
+2026-10-09 00:36:22,032 - INFO - Fetching XSMT: 2026-10-08
+2026-10-09 00:36:22,032 - INFO - Fetching URL: https://xoso.com.vn/xsmt-08-10-2026.html
+2026-10-09 00:36:22,591 - INFO - Response status: 200
+2026-10-09 00:36:22,602 - INFO - Found provinces: Quảng Bình, Bình Định, Quảng Trị
+2026-10-09 00:36:22,602 - INFO - Successfully processed data for Quảng Bình on 2026-10-08
+2026-10-09 00:36:22,602 - INFO - Successfully processed data for Bình Định on 2026-10-08
+2026-10-09 00:36:22,602 - INFO - Successfully processed data for Quảng Trị on 2026-10-08
+2026-10-09 00:36:22,602 - INFO - Successfully fetched 3 results for date 2026-10-08
+2026-10-09 00:36:22,602 - INFO - Fetching XSMT: 2026-10-09
+2026-10-09 00:36:22,602 - INFO - Fetching URL: https://xoso.com.vn/xsmt-09-10-2026.html
+2026-10-09 00:36:22,845 - INFO - Response status: 200
+2026-10-09 00:36:22,854 - ERROR - Could not find result table for date 2026-10-09 at https://xoso.com.vn/xsmt-09-10-2026.html
+2026-10-09 00:36:22,854 - WARNING - No data or invalid data for XSMT on 2026-10-09
+2026-10-09 00:36:22,889 - INFO - Generated dataframes with data from 2025-08-08 to 2026-10-08
+2026-10-09 00:36:22,901 - INFO - Saved 1032 results to data/xsmt.json
+2026-10-09 00:36:22,916 - INFO - Saved 1032 records to data/xsmt.csv and data/xsmt.parquet
+2026-10-09 00:36:22,921 - INFO - Saved 1032 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
+2026-10-09 00:36:22,935 - INFO - Saved 1032 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
+2026-10-09 00:36:22,959 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
+2026-10-09 00:36:22,960 - INFO - Successfully fetched 1/2 days of XSMT data
+2026-10-09 00:36:22,960 - INFO - Lottery Data Fetch Summary:
+XSMT: succeeded
