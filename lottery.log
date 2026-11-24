@@ -1,26 +1,22 @@
-2026-11-25 03:53:02,735 - INFO - Date range: 2026-11-24 to 2026-11-25
-2026-11-25 03:53:02,792 - INFO - Fetching XSMT from 2026-11-24 to 2026-11-25
-2026-11-25 03:53:02,844 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-23
-2026-11-25 03:53:02,845 - INFO - Successfully loaded existing data from data/xsmt.json
-2026-11-25 03:53:02,846 - INFO - Fetching XSMT: 2026-11-24
-2026-11-25 03:53:02,846 - INFO - Fetching URL: https://xoso.com.vn/xsmt-24-11-2026.html
-2026-11-25 03:53:03,398 - INFO - Response status: 200
-2026-11-25 03:53:03,409 - INFO - Found provinces: Đắk Lắk, Quảng Nam
-2026-11-25 03:53:03,409 - INFO - Successfully processed data for Đắk Lắk on 2026-11-24
-2026-11-25 03:53:03,409 - INFO - Successfully processed data for Quảng Nam on 2026-11-24
-2026-11-25 03:53:03,409 - INFO - Successfully fetched 2 results for date 2026-11-24
-2026-11-25 03:53:03,409 - INFO - Fetching XSMT: 2026-11-25
-2026-11-25 03:53:03,409 - INFO - Fetching URL: https://xoso.com.vn/xsmt-25-11-2026.html
-2026-11-25 03:53:04,127 - INFO - Response status: 200
-2026-11-25 03:53:04,137 - INFO - Found provinces: Đà Nẵng, Khánh Hòa
-2026-11-25 03:53:04,137 - WARNING - Skipping Đà Nẵng for 2026-11-25 due to incomplete data: ['...']
-2026-11-25 03:53:04,137 - WARNING - No data or invalid data for XSMT on 2026-11-25
-2026-11-25 03:53:04,183 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-24
-2026-11-25 03:53:04,199 - INFO - Saved 1146 results to data/xsmt.json
-2026-11-25 03:53:04,213 - INFO - Saved 1146 records to data/xsmt.csv and data/xsmt.parquet
-2026-11-25 03:53:04,218 - INFO - Saved 1146 records to data/xsmt-2-digits.csv and data/xsmt-2-digits.parquet
-2026-11-25 03:53:04,234 - INFO - Saved 1146 records to data/xsmt-sparse.csv and data/xsmt-sparse.parquet
-2026-11-25 03:53:04,265 - INFO - Successfully saved sparse data to data/xsmt-sparse.json
-2026-11-25 03:53:04,266 - INFO - Successfully fetched 1/2 days of XSMT data
-2026-11-25 03:53:04,266 - INFO - Lottery Data Fetch Summary:
-XSMT: succeeded
+2026-11-25 04:30:23,481 - INFO - Date range: 2026-11-24 to 2026-11-25
+2026-11-25 04:30:23,540 - INFO - Fetching XSMB from 2026-11-24 to 2026-11-25
+2026-11-25 04:30:23,575 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-23
+2026-11-25 04:30:23,575 - INFO - Successfully loaded existing data from data/xsmb.json
+2026-11-25 04:30:23,576 - INFO - Fetching XSMB: 2026-11-24
+2026-11-25 04:30:23,576 - INFO - Fetching URL: https://xoso.com.vn/xsmb-24-11-2026.html
+2026-11-25 04:30:23,626 - INFO - Response status: 200
+2026-11-25 04:30:23,639 - INFO - Successfully fetched data for 2026-11-24
+2026-11-25 04:30:23,639 - INFO - Fetching XSMB: 2026-11-25
+2026-11-25 04:30:23,639 - INFO - Fetching URL: https://xoso.com.vn/xsmb-25-11-2026.html
+2026-11-25 04:30:23,889 - INFO - Response status: 200
+2026-11-25 04:30:23,901 - WARNING - Skipping XSMB for 2026-11-25 due to incomplete data: ..................
+2026-11-25 04:30:23,901 - WARNING - No data or invalid data for XSMB on 2026-11-25
+2026-11-25 04:30:23,925 - INFO - Generated dataframes with data from 2025-08-08 to 2026-11-24
+2026-11-25 04:30:23,934 - INFO - Saved 470 results to data/xsmb.json
+2026-11-25 04:30:23,944 - INFO - Saved 470 records to data/xsmb.csv and data/xsmb.parquet
+2026-11-25 04:30:23,948 - INFO - Saved 470 records to data/xsmb-2-digits.csv and data/xsmb-2-digits.parquet
+2026-11-25 04:30:23,958 - INFO - Saved 470 records to data/xsmb-sparse.csv and data/xsmb-sparse.parquet
+2026-11-25 04:30:23,987 - INFO - Successfully saved sparse data to data/xsmb-sparse.json
+2026-11-25 04:30:23,988 - INFO - Successfully fetched 1/2 days of XSMB data
+2026-11-25 04:30:23,988 - INFO - Lottery Data Fetch Summary:
+XSMB: succeeded
